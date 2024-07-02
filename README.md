@@ -85,6 +85,3 @@ this through Postman only and not push the updated collection (or push your upda
 
 Images within the `storage\default` folder should not be removed, when reloading the server these will be copied to
 storage\images where the server can add, update or delete them when running.
-
-If you find an inconsistency or issue with the reference server please reach out to Morgan English
-`morgan.english@canterbury.ac.nz`.
