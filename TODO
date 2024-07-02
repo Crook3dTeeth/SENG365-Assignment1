@@ -1,0 +1,12 @@
+users:
+    validation/error catching
+users.image:
+    delete physical file?
+SQL QUERIES/CHECKS:
+    check when updating/deleting entry that a row was updated/deleted
+    make sure session/connection is ended (spotted a few missing) in the backdoor 
+petitions:
+    figure out why sorting by cost desc is different, has the db and/or the test case been changed?
+
+
+petitions.supporters
